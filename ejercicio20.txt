@@ -1,0 +1,4 @@
+20. Explica que archivos y directorios muestran el comando “ls” con las siguientes
+expresiones:
+c. texto1[1-4] :Muestra los archivos o directorios llamados texto1 y a continuación los números del 1 al 4. Por ejemplo seria texto11, texto12, texto13 y texto14
+d. [1-3]???t* :Muestra los archivos o directorios del 1 al 3 a continuación 3 carácteres, la letra t y todas las combinaciones de carácteres posibles.

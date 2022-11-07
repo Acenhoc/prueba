@@ -1,0 +1,4 @@
+20. Explica que archivos y directorios muestran el comando “ls” con las siguientes
+expresiones:
+b. arb[A-P] :Empieza por arb y a continuación una letra de la A a la P.
+c. texto1[1-4] :Muestra los archivos o directorios llamados texto1 y a continuación los números del 1 al 4. Por ejemplo seria texto11, texto12, texto13 y texto14.
